@@ -5,15 +5,5 @@
       "images":"image/contest_seoul-art.png",
       "contents":"[공모전] 2022 서울아트스테이션 작가 공모"
     },
-    {
-      "name":"박영훈, 이지송 2인전",
-      "images":"image/exhibition_bahkeasy.png",
-      "contents":"[전시회] 박영훈, 이지송 2인전 《BLACK INTO LIGHT》[전시회] 박영훈, 이지송 2인전 《BLACK INTO LIGHT》"
-    },
-    {
-      "name":"헤드비갤러리",
-      "images":"image/contest_headwig-gallery.jpg",
-      "tel":"[공모전] 헤드비갤러리 신인 작가 공모[공모전] 헤드비갤러리 신인 작가 공모"
-    }
   ]
 }
